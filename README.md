@@ -20,11 +20,17 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/> 
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png" alt="Nest.js" width="40" height="40"/> 
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Nest.js" width="40" height="40"/> 
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AN9zIKcHKWoaVZyzVtiX4WZqVgF46_sF8g&s" alt="Socket.io" width="40" height="40"/> 
