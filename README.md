@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Mastering **React Native**
 
-- 📫 How to reach me **syed.sahab9628@gmail.com**
+- 📫 How to reach me **helloanwar975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +24,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/> 
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="40" height="40"/> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png" alt="Nest.js" width="40" height="40"/> 
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AN9zIKcHKWoaVZyzVtiX4WZqVgF46_sF8g&s" alt="Socket.io" width="40" height="40"/> 
   </a>
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
