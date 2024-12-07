@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-3108&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-3108" /> </p>
 
-- 🌱 I’m currently Mastering **React Native**
+- 🌱 I’m currently Mastering **Backend Technologies**
 
 - 📫 How to reach me **helloanwar975@gmail.com**
 
